@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Naomi's Blog"
 title_separator          : "-"
 name                     : "Naomi Pentrel"
-description              : "An amazing website."
+description              : "Naomi's Blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -85,8 +85,8 @@ analytics:
 # Site Author
 author:
   name             : "Naomi Pentrel"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  avatar           : "http://naomi.codes/assets/NaomiPentrel8.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Occasional blogger, hacker, hackathon organizer, and engineer at Bloomberg. Previously at Google, Microsoft, and Palantir."
   location         : "London, UK"
   email            :
   uri              :
@@ -95,9 +95,9 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "npentrel"
   foursquare       :
-  github           :
+  github           : "npentrel"
   gitlab           :
   google_plus      :
   keybase          :
@@ -109,10 +109,10 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "naomi_pen"
   vine             :
   weibo            :
-  xing             :
+  xing             : "npentrel"
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 

@@ -1,7 +1,7 @@
 ---
 title: A blog post about blog posts 2
 link: https://medium.com/@naomi_pen/a-blog-post-about-blog-posts-4bb6a6ce0772
-readtime: 21 min read
+read_time: 21 min read
 permalink: https://medium.com/@naomi_pen/a-blog-post-about-blog-posts-4bb6a6ce0772
 ---
 

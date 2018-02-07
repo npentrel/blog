@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Naomi's Blog"
+title                    : "Naomi's Blog ✨"
 title_separator          : "-"
 name                     : "Naomi Pentrel"
-description              : "Naomi's Blog"
+description              : "Naomi's Blog ✨"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

@@ -90,7 +90,7 @@ author:
   location         : "London, UK"
   email            :
   uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
+  home             : "http://naomi.codes" # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :

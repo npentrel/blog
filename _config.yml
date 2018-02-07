@@ -62,7 +62,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "naomi_pen"
 facebook:
   username               :
   app_id                 :
@@ -95,7 +95,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "npentrel"
+  facebook         :
   foursquare       :
   github           : "npentrel"
   gitlab           :
@@ -112,7 +112,7 @@ author:
   twitter          : "naomi_pen"
   vine             :
   weibo            :
-  xing             : "profile/npentrel"
+  xing             : 
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 

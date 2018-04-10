@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Naomi Pentrel"
   avatar           : "http://naomi.codes/assets/NaomiPentrel8.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Occasional blogger, hacker, hackathon organizer, and developer advocate at mLab. Previously engineer at Google, Microsoft, and Bloomberg."
+  bio              : "Developer advocate at mLab, occasional blogger, hacker, and hackathon organizer. Previously engineer at Google, Microsoft, and Bloomberg."
   location         : "London, UK"
   email            :
   uri              :

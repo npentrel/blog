@@ -13,7 +13,7 @@ title                    : "Naomi's Blog"
 title_separator          : "-"
 name                     : "Naomi Pentrel"
 description              : "Naomi's blog about tech and other cool things."
-url                      : "http://blog.naomi.codes" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://blog.naomi.codes" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -85,12 +85,12 @@ analytics:
 # Site Author
 author:
   name             : "Naomi Pentrel"
-  avatar           : "http://naomi.codes/assets/NaomiPentrel8.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://naomi.codes/assets/NaomiPentrel8.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Developer advocate at mLab, occasional blogger, hacker, and hackathon organizer. Previously engineer at Google, Microsoft, and Bloomberg."
   location         : "London, UK"
   email            :
   uri              :
-  home             : "http://naomi.codes" # null (default), "absolute or relative url to link to author home"
+  home             : "https://naomi.codes" # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :

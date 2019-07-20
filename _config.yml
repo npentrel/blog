@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Naomi Pentrel"
-  avatar           : "https://naomi.codes/assets/NaomiPentrel8.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://naomi.codes/assets/NaomiPentrel.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Communications Engineer in the Office of the CTO at MongoDB, occasional blogger, hacker, and hackathon organizer. Previously engineer at Google, Microsoft, and Bloomberg."
   location         : "Amsterdam, Netherlands"
   email            :

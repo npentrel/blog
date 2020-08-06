@@ -114,6 +114,14 @@
         </li>
       {% endif %}
 
+      {% if author.ecologi %}
+        <li>
+          <a href="{{ author.ecologi }}" itemprop="sameAs" target="_blank">
+            <i class="fas fa-fw fa-globe-europe" aria-hidden="true"></i> Help save the planet!
+          </a>
+        </li>
+      {% endif %}
+
       {% if author.xing %}
         <li>
           <a href="https://www.xing.com/profile/{{ author.xing }}" itemprop="sameAs" target="_blank">

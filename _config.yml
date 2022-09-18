@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Naomi's Blog"
+title                    : "Naomi's Blog (and other content)"
 title_separator          : "-"
 name                     : "Naomi Pentrel"
-description              : "Naomi's blog about tech and other cool things."
+description              : "Naomi's blog (and other content) about tech and other cool things."
 url                      : "https://naomi.codes" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Naomi Pentrel"
   avatar           : "https://naomi.codes/assets/NaomiPentrel.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Engineering Communications Team Lead at MongoDB, occasional blogger, crocheter, and hacker. Previously engineer at Google, Microsoft, and Bloomberg."
+  bio              : "Developer content professional, occasional blogger, crocheter, and hacker. Previously engineer at Google, Microsoft, MongoDB, and Twilio."
   location         : "Amsterdam, Netherlands"
   email            :
   contact          : "https://goo.gl/forms/QPkutJ34SV"

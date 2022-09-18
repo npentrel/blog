@@ -1,5 +1,5 @@
 ---
-title: Advanced MongoDB Training | LinkedIn Learning
+title: Advanced MongoDB Training (LinkedIn Learning)
 link: https://www.linkedin.com/learning/advanced-mongodb/advanced-mongodb
 read_time: 3h 45m
 permalink: https://www.linkedin.com/learning/advanced-mongodb/advanced-mongodb

@@ -1,5 +1,5 @@
 ---
-title: MongoDB Essential Training | LinkedIn Learning
+title: MongoDB Essential Training (LinkedIn Learning)
 link: https://www.linkedin.com/learning/mongodb-essential-training
 read_time: 3h 45m
 permalink: https://www.linkedin.com/learning/mongodb-essential-training
